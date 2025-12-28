@@ -32,6 +32,7 @@ A browser-based room design tool built with **Modern Angular**, **TypeScript**, 
 
 ## 📁 Project Structure
 
+```text
 src/
 ├── components/
 │   ├── canvas-editor/      # 🎨 The core engine. Handles the HTML5 Canvas, mouse events, and rendering loop.
